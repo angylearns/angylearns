@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<img src="img/programmer.svg" width="100px" height="100px">
+<img src="img/programmer.svg" width="200px" height="200px">
 
-![Programmer](img/programmer.svg){ width=100px height=100px }
 
 <!--
 **angylearns/angylearns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
