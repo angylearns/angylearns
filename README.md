@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="img/programmer.svg" width="100px" height="100px">
+
 ![Programmer](img/programmer.svg){ width=100px height=100px }
 
 <!--
