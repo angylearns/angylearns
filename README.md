@@ -13,12 +13,12 @@
         </section>
     </section>
     <section class="second" style="text-align: center;">
-        <section class="icons" style="height: 50px;">
-            <img src="img/html.svg">
-            <img src="img/css.svg">
-            <img src="img/js.svg">
-            <img src="img/php.svg">
-            <img src="img/sql.svg">
+        <section class="icons">
+            <img src="img/html.svg" style="height: 50px;">
+            <img src="img/css.svg" style="height: 50px;">
+            <img src="img/js.svg" style="height: 50px;">
+            <img src="img/php.svg" style="height: 50px;">
+            <img src="img/sql.svg" style="height: 50px;">
         </section>
     </section>
 </main>
