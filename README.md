@@ -1,10 +1,10 @@
 <main class="container">
     <h1>angylearns' ever-growing repository</h1>
-    <section class="first" style="display:flex; justify-content: space-between">
-        <section class="image" style="width: 40%; height: auto; display: flex; align-items: center">
-            <img src="img/programmer.svg" class="programmer_img" style="width: 300px; height: 300px; filter: drop-shadow(7px 2px 11px #000000);">
+    <section class="first" style="display:flex; justify-content: space-between; align-self: left;">
+        <section class="image" style="width: 40%; height: auto; display: flex;">
+            <img src="img/programmer.svg" class="programmer_img" style="width: 300px; height: 300px; align-self: center">
         </section>
-        <section class="about_me" style="width: 50%;">
+        <section class="about_me" style="width: 50%; align-self: right;">
             Hi! My name is Angy and I'm a Future Full Stack Developer.
             <br><br>
             I entered the tech world during the pandemic, and since then, I haven't stopped. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
@@ -12,8 +12,8 @@
             I'm currently immersed in my education and professional development. I <strong>love</strong> learning, and I'm always studying.
         </section>
     </section>
-    <section class="second" style="text-align: center;">
-        <section class="icons">
+    <section class="second">
+        <section class="icons" style="text-align: center;">
             <img src="img/html.svg" style="height: 50px;">
             <img src="img/css.svg" style="height: 50px;">
             <img src="img/js.svg" style="height: 50px;">
