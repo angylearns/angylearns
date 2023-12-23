@@ -1,6 +1,6 @@
 <main class="container">
     <h1>angylearns' ever-growing repository</h1>
-    <section class="first" style="display:flex; justify-content: space-between;">
+    <section class="first" style="display:flex; justify-content: space-between; flex-direction: row;">
         <section class="image" style="width: 40%; height: auto; display: flex; justify-self: left;">
             <img src="img/programmer.svg" class="programmer_img" style="width: 300px; height: 300px; align-self: center">
         </section>
