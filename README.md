@@ -1,11 +1,12 @@
 <main class="container">
     <h1>angylearns' ever-growing repository</h1>
-    <table style="border:none">
+    <section>⚠️Right now, I'm <strong>grappling</strong> with this README to get the positioning the way I want it.</section>
+    <table style="border-radius:5px">
       <tr>
-        <td valign="top"  style="width: 40%; height: auto; flex:1;">
+        <td valign="top">
             <img src="img/programmer.svg" class="programmer_img" style="width: 300px; height: 300px; align-self: center">
         </td>
-        <td valign="top" style="width: 50%; flex:1;">
+        <td valign="top">
             Hi! My name is Angy and I'm a Future Full Stack Developer.
             <br><br>
             I entered the tech world during the pandemic, and since then, I haven't stopped. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
