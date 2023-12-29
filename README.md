@@ -1,6 +1,6 @@
 <main class="container">
     <h1>angylearns' ever-growing repositories</h1>
-            <img src="img/header2-copia.png"><br><br>
+            <img src="img/header2-copia.png">
             <section>Hi! My name is Angy and I'm a Future Full Stack Developer.
             <br><br>
             I entered the tech world during the pandemic, and since then, I haven't stopped. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
