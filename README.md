@@ -11,7 +11,7 @@
         <table align="center">
             <tr>
                 <th>Currently studying</th>
-                <th>Languages I know (and improve every day)</th>
+                <th>Languages I know (and improve <br> every day)</th>
                 <th>Languages I wanna learn</th>
                 <th>My world revolves around</th>
             </tr>
