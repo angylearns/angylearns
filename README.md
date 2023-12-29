@@ -2,7 +2,7 @@
     <h1>angylearns' ever-growing repositories</h1>
             <img src="img/header2-copia.png">
     <section>
-        Hey there 🤘. My name is Angy. Future Full Stack Developer, long-walker, sarcasm lover, doubter, observer, inquisitive soul, eager chips-eater, ever-changing...
+        Hey there 🤘. My name is Angy. Future Full Stack Developer, long-walker, sarcasm lover, doubter, observer, eager chips-eater, inquisitive soul, ever-changing...
         <br><br>
         I entered the tech world during the pandemic and haven't stopped since. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
         <br><br>
