@@ -2,7 +2,7 @@
     <h1>angylearns' ever-growing repositories</h1>
             <img src="img/header2-copia.png">
     <section>
-        Hey there. My name is Angy and I'm a Future Full Stack Developer.
+        Hey there. My name is Angy and I'm a future Full Stack Developer.
         <br><br>
         I entered the tech world during the pandemic, and since then, I haven't stopped. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
         <br><br>
@@ -11,7 +11,7 @@
         <table align="center">
             <tr>
                 <th>Currently studying</th>
-                <th>Languages I know (and improving every day)</th>
+                <th>Languages I know (and improve every day)</th>
                 <th>Languages I wanna learn</th>
                 <th>My world revolves around</th>
             </tr>
