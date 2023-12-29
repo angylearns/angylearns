@@ -3,7 +3,7 @@
             <img src="img/header2-copia.png">
     <section>
         Hey there 🤘. My name is Angy: <br><br>
-        <img src="img/willsmith.png" width="50px">Future Full Stack Developer • Long-walker • Sarcasm lover • Doubter • Observer • Eager chips-eater • Inquisitive soul • Ever-changing • Ever-learning
+        <img src="img/willsmith.png" width="45px">Future Full Stack Developer • Long-walker • Sarcasm lover • Doubter • Observer • Eager chips-eater • Inquisitive soul • Ever-changing • Ever-learning
         <br><br>
         I entered the tech world during the pandemic and haven't stopped since. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
         <br><br>
