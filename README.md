@@ -18,20 +18,20 @@
             <tr>
                 <td align="center">Full Stack Development</td>
                 <td align="center">
-                    <img src="img/html.svg" style="height: 50px;">
-                    <img src="img/css.svg" style="height: 50px;">
-                    <img src="img/js.svg" style="height: 50px;">
-                    <img src="img/php.svg" style="height: 50px;">
-                    <img src="img/sql.svg" style="height: 50px;">
+                    <img src="img/html.svg" style="height: 40px;">
+                    <img src="img/css.svg" style="height: 40px;">
+                    <img src="img/js.svg" style="height: 40px;">
+                    <img src="img/php.svg" style="height: 40px;">
+                    <img src="img/sql.svg" style="height: 40px;">
                 </td>
                 <td align="center">
-                    <img src="img/python.svg" style="height: 50px;">
-                    <img src="img/react.svg" style="height: 50px;">
+                    <img src="img/python.svg" style="height: 40px;">
+                    <img src="img/react.svg" style="height: 40px;">
                 </td>
                 <td align="center">
-                    <img src="img/music.svg" style="height: 50px;">
-                    <img src="img/coffee.svg" style="height: 50px;">
-                    <img src="img/books.svg" style="height: 50px;">
+                    <img src="img/music.svg" style="height: 40px;">
+                    <img src="img/coffee.svg" style="height: 40px;">
+                    <img src="img/books.svg" style="height: 40px;">
                 </td>
             </tr>
         </table>
