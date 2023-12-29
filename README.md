@@ -18,37 +18,24 @@
             <tr>
                 <td align="center">Full Stack Development</td>
                 <td align="center">
-                    <img src="img/html.svg" style="height: 40px;">
-                    <img src="img/css.svg" style="height: 40px;">
-                    <img src="img/js.svg" style="height: 40px;">
-                    <img src="img/php.svg" style="height: 40px;">
-                    <img src="img/sql.svg" style="height: 40px;">
+                    <img src="img/html.svg" style="height: 35px;">
+                    <img src="img/css.svg" style="height: 35px;">
+                    <img src="img/js.svg" style="height: 35px;">
+                    <img src="img/php.svg" style="height: 35px;">
+                    <img src="img/sql.svg" style="height: 35px;">
                 </td>
                 <td align="center">
-                    <img src="img/python.svg" style="height: 40px;">
-                    <img src="img/react.svg" style="height: 40px;">
+                    <img src="img/python.svg" style="height: 35px;">
+                    <img src="img/react.svg" style="height: 35px;">
                 </td>
                 <td align="center">
-                    <img src="img/music.svg" style="height: 40px;">
-                    <img src="img/coffee.svg" style="height: 40px;">
-                    <img src="img/books.svg" style="height: 40px;">
+                    <img src="img/music.svg" style="height: 35px;">
+                    <img src="img/books.svg" style="height: 35px;">
+                    <img src="img/writing.svg" style="height: 35px;">
+                    <img src="img/brain.svg" style="height: 35px;">
+                    <img src="img/laughing.svg" style="height: 35px;">
                 </td>
             </tr>
         </table>
     </section>
 </main>
-
-<!--
-**angylearns/angylearns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
