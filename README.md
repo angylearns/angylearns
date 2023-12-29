@@ -1,5 +1,5 @@
 <main class="container">
-    <h1>angylearns' ever-growing repository</h1>
+    <h1>angylearns' ever-growing repositories</h1>
             <img src="img/programmer.svg" class="programmer_img" style="height:200px">
             <section>Hi! My name is Angy and I'm a Future Full Stack Developer.
             <br><br>
