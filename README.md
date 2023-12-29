@@ -16,7 +16,7 @@
                 <th>My world revolves around</th>
             </tr>
             <tr>
-                <td>Full Stack Development</td>
+                <td align="center">Full Stack Development</td>
                 <td align="center">
                     <img src="img/html.svg" style="height: 50px;">
                     <img src="img/css.svg" style="height: 50px;">
@@ -28,7 +28,11 @@
                     <img src="img/python.svg" style="height: 50px;">
                     <img src="img/react.svg" style="height: 50px;">
                 </td>
-                <td></td>
+                <td align="center">
+                    <img src="img/music.svg" style="height: 50px;">
+                    <img src="img/coffee.svg" style="height: 50px;">
+                    <img src="img/books.svg" style="height: 50px;">
+                </td>
             </tr>
         </table>
     </section>
