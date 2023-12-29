@@ -6,7 +6,7 @@
         <table align="center">
             <tr>
                 <td><img src="img/willsmith.png" width="60px"></td>
-                <td align="center">Future Full Stack Developer • Long-walker • Sarcasm lover • Doubter • <br> Observer • Eager chips-eater • Inquisitive soul • Ever-changing • Ever-learning</td>
+                <td align="center">Long-walker • Sarcasm lover • Doubter • Observer •<br> Eager chips-eater • Inquisitive soul • Ever-changing • Ever-learning</td>
             </tr>
         </table>
         I entered the tech world during the pandemic and haven't stopped since. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
