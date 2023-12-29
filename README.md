@@ -1,17 +1,22 @@
 <main class="container">
     <h1>angylearns' ever-growing repositories</h1>
             <img src="img/header2-copia.png">
-            <section>Hi! My name is Angy and I'm a Future Full Stack Developer.
-            <br><br>
-            I entered the tech world during the pandemic, and since then, I haven't stopped. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
-            <br><br>
-            I'm currently immersed in my education and professional development. I <strong>love</strong> learning, and I'm always studying. </section><br><br>
-        <table>
+    <section>
+        Hey there. My name is Angy and I'm a Future Full Stack Developer.
+        <br><br>
+        I entered the tech world during the pandemic, and since then, I haven't stopped. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
+        <br><br>
+        I'm currently immersed in my education and professional development. I <strong>love</strong> learning, and I'm always studying.
+    </section><br>
+        <table align="center">
             <tr>
+                <th>Currently studying</th>
                 <th>Languages I know (and improving every day)</th>
                 <th>Languages I wanna learn</th>
+                <th>My world revolves around</th>
             </tr>
             <tr>
+                <td>Full Stack Development</td>
                 <td align="center">
                     <img src="img/html.svg" style="height: 50px;">
                     <img src="img/css.svg" style="height: 50px;">
@@ -23,6 +28,7 @@
                     <img src="img/python.svg" style="height: 50px;">
                     <img src="img/react.svg" style="height: 50px;">
                 </td>
+                <td></td>
             </tr>
         </table>
     </section>
