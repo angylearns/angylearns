@@ -4,7 +4,7 @@
     <section>
         Hey there. My name is Angy and I'm a future Full Stack Developer.
         <br><br>
-        I entered the tech world during the pandemic, and since then, I haven't stopped. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
+        I entered the tech world during the pandemic and haven't stopped since. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
         <br><br>
         I'm currently immersed in my education and professional development. I <strong>love</strong> learning, and I'm always studying.
     </section><br>
