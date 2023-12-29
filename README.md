@@ -20,7 +20,10 @@
                     <img src="img/php.svg" style="height: 50px;">
                     <img src="img/sql.svg" style="height: 50px;">
                 </td>
-                <td></td>
+                <td style="text-align:center">
+                    <img src="img/python.svg" style="height: 50px;">
+                    <img src="img/react.svg" style="height: 50px;">
+                </td>
             </tr>
         </table>
     </section>
