@@ -2,19 +2,8 @@
     <h1>angylearns' ever-growing repositories</h1>
             <img src="img/header2-copia.png">
     <section>
-        Hey there 🤘. My name is Angy:
+        Hey there 🤘. My name is Angy: Future Full Stack Developer • Long-walker • Sarcasm lover • Doubter • Observer • Eager chips-eater • Inquisitive soul • Ever-changing • Ever-learning
         <br><br>
-        <ul>
-            <li>Future Full Stack Developer</li>
-            <li>Long-walker</li>
-            <li>Sarcasm lover</li>
-            <li>Doubter</li>
-            <li>Observer</li>
-            <li>Eager chips-eater</li>
-            <li>Inquisite soul</li>
-            <li>Ever-changing</li>
-            <li>Ever-learning</li>
-        </ul>
         I entered the tech world during the pandemic and haven't stopped since. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
         <br><br>
         I'm currently immersed in my education and professional development. I <strong>love</strong> learning, and I'm always studying.
