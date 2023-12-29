@@ -7,13 +7,22 @@
             I entered the tech world during the pandemic, and since then, I haven't stopped. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
             <br><br>
             I'm currently immersed in my education and professional development. I <strong>love</strong> learning, and I'm always studying. </section><br><br>
-        <section class="icons" style="text-align: center;">
-            <img src="img/html.svg" style="height: 50px;">
-            <img src="img/css.svg" style="height: 50px;">
-            <img src="img/js.svg" style="height: 50px;">
-            <img src="img/php.svg" style="height: 50px;">
-            <img src="img/sql.svg" style="height: 50px;">
-        </section>
+        <table>
+            <tr>
+                <th>Programming languages I know</th>
+                <th>Programming languages I wanna learn</th>
+            </tr>
+            <tr>
+                <td>
+                    <img src="img/html.svg" style="height: 50px;">
+                    <img src="img/css.svg" style="height: 50px;">
+                    <img src="img/js.svg" style="height: 50px;">
+                    <img src="img/php.svg" style="height: 50px;">
+                    <img src="img/sql.svg" style="height: 50px;">
+                </td>
+                <td></td>
+            </tr>
+        </table>
     </section>
 </main>
 
