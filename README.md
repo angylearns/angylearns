@@ -29,7 +29,6 @@
                     <img src="img/react.svg" style="height: 35px;">
                 </td>
                 <td align="center">
-                    <img src="img/music.svg" style="height: 35px;">
                     <img src="img/books.svg" style="height: 35px;">
                     <img src="img/writing.svg" style="height: 35px;">
                     <img src="img/brain.svg" style="height: 35px;">
