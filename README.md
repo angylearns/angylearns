@@ -3,13 +3,12 @@
             <img src="img/header2-copia.png">
     <section>
         Hey there 🤘. My name is Angy: <br><br>
-        <table>
+        <table align="center">
             <tr>
-                <td><img src="img/willsmith.png" width="50px"></td>
-                <td>Future Full Stack Developer • Long-walker • Sarcasm lover • Doubter • Observer • Eager chips-eater • Inquisitive soul • Ever-changing • Ever-learning</td>
+                <td><img src="img/willsmith.png" width="60px"></td>
+                <td align="center">Future Full Stack Developer • Long-walker • Sarcasm lover • Doubter • <br> Observer • Eager chips-eater • Inquisitive soul • Ever-changing • Ever-learning</td>
             </tr>
         </table>
-        <br><br>
         I entered the tech world during the pandemic and haven't stopped since. I obtained a professional certificate in web application development, programmed my first app, and got my first job as a developer. 
         <br><br>
         I'm currently immersed in my education and professional development. I <strong>love</strong> learning, and I'm always studying.
