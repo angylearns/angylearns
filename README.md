@@ -23,26 +23,27 @@
             <tr>
                 <td align="center">Full Stack Development</td>
                 <td align="center">
-                    <img src="img/html.svg" style="height: 30px;">
-                    <img src="img/css.svg" style="height: 30px;">
-                    <img src="img/js.svg" style="height: 30px;">
-                    <img src="img/php.svg" style="height: 30px;">
-                    <img src="img/sql.svg" style="height: 30px;">
-                    <img src="img/canva.svg" style="height: 30px;">
-                    <img src="img/figma.svg" style="height: 30px;">
-                    <img src="img/wp.svg" style="height: 30px;">
+                    <img src="img/html.svg" style="height: 25px;">
+                    <img src="img/css.svg" style="height: 25px;">
+                    <img src="img/js.svg" style="height: 25px;">
+                    <img src="img/php.svg" style="height: 25px;">
+                    <img src="img/sql.svg" style="height: 25px;">
+                    <img src="img/canva.svg" style="height: 25px;">
+                    <img src="img/figma.svg" style="height: 25px;">
+                    <img src="img/wp.svg" style="height: 25px;">
+                    <img src="img/bitbucket.svg" style="height: 25px;">
                 </td>
                 <td align="center">
-                    <img src="img/python.svg" style="height: 30px;">
-                    <img src="img/react.svg" style="height: 30px;">
+                    <img src="img/python.svg" style="height: 25px;">
+                    <img src="img/react.svg" style="height: 25px;">
                 </td>
                 <td align="center">
-                    <img src="img/music.svg" style="height: 30px;">
-                    <img src="img/books.svg" style="height: 30px;">
-                    <img src="img/writing.svg" style="height: 30px;">
-                    <img src="img/brain.svg" style="height: 30px;">
-                    <img src="img/laughing.svg" style="height: 30px;">
-                    <img src="img/devices.svg" style="height: 30px;">
+                    <img src="img/music.svg" style="height: 25px;">
+                    <img src="img/books.svg" style="height: 25px;">
+                    <img src="img/writing.svg" style="height: 25px;">
+                    <img src="img/brain.svg" style="height: 25px;">
+                    <img src="img/laughing.svg" style="height: 25px;">
+                    <img src="img/devices.svg" style="height: 25px;">
                 </td>
             </tr>
         </table>
