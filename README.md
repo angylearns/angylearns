@@ -1,7 +1,6 @@
 <main class="container">
     <h1>angylearns' ever-growing repositories</h1>
             <img src="img/header4.png">
-    ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=angylearns)
     <section>
         Hey there 🤘. My name is Angy: <br><br>
         <table align="center">
@@ -50,3 +49,5 @@
         </table>
     </section>
 </main>
+
+ ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=angylearns&layout=compact&custom_title=How%20obsessed%20I%20am%20with%20coding&theme=highcontrast)
