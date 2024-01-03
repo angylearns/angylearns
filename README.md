@@ -1,8 +1,7 @@
 <main class="container">
     <h1>angylearns' ever-growing repositories</h1>
             <img src="img/header4.png">
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+    ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=angylearns)
     <section>
         Hey there 🤘. My name is Angy: <br><br>
         <table align="center">
