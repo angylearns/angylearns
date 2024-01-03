@@ -1,0 +1,13 @@
+{
+    "name": "Waka Readme",
+    "description": "Waka Readme starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
