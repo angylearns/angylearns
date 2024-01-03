@@ -48,5 +48,6 @@
             </tr>
         </table>
     </section>
+    <hr>
     <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=angylearns&layout=compact&custom_title=How%20obsessed%20I've%20been%20with%20coding%20in%20the%20last%207%20days&theme=highcontrast" alt="WakaTime Stats" width="600px"></div>
 </main>
