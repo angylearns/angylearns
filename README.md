@@ -16,7 +16,7 @@
         <table align="center">
             <tr>
                 <th>Currently studying</th>
-                <th>Technologies I know (and improve <br> every day)</th>
+                <th>Technologies I know about <br> (and improve every day)</th>
                 <th>Technologies I<br>wanna learn</th>
                 <th>My world revolves around</th>
             </tr>
