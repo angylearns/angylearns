@@ -9,7 +9,7 @@
                 <td align="center">Long-walker • Sarcasm lover • Doubter • Observer •<br> Eager chips-eater • Inquisitive soul • Ever-changing • Ever-learning</td>
             </tr>
         </table>
-        I entered the tech world during the pandemic and haven't stopped since. I obtained a Professional Certificate in Applications Development with Web Technologies, programmed my first app, and got my first job as a developer. 
+        I entered the tech sector during the pandemic and haven't stopped since. I obtained a Professional Certificate in Applications Development with Web Technologies, programmed my first app, and got my first job as a developer. 
         <br><br>
         I'm currently immersed in my education and professional development. I'm <strong>always</strong> studying!
     </section><br>
