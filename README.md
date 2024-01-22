@@ -17,7 +17,7 @@
             <tr>
                 <th>Currently studying</th>
                 <th>Technologies I know about <br> (and improve every day)</th>
-                <th>Technologies I<br>wanna learn</th>
+                <th>Technologies <br>I'm learning</th>
                 <th>My world revolves around</th>
             </tr>
             <tr>
