@@ -1,6 +1,6 @@
 <main class="container">
     <h1>angylearns' ever-growing repositories</h1>
-        <img src="img/header_gh.png">
+        <img src="img/header.png">
     <section>
         Hey there 🤘. My name is Angy: <br><br>
         <table align="center">
