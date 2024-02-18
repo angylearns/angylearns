@@ -15,7 +15,7 @@
                 <td><a href="https://github.com/angylearns/PROJECT-4-Angy-Lidia-Ana-Pili"><img src="img/bc-p4.png"></a></td>
             </tr>
         </table>
-        And who am I? What am I? What do I do in my life and how cool and superhumble I am? 😎
+        And who am I? What am I? How cool and superhumble I am? 😎
         <br><br>
         <table align="center">
             <tr>
