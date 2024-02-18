@@ -1,8 +1,20 @@
 <main class="container">
     <h1>angylearns' ever-growing repositories</h1>
         <img src="img/header.png">
+        <br><br>
     <section>
-        Hey there 🤘. My name is Angy: <br><br>
+        Hey there 🤘. My name is Angy and let me introduce you to my most relevant repositories so far: <br><br>
+        <table align="center">
+            <tr>
+                <td colspan="4" align="center">Bootcamp Full Stack (FemCoders)</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/angylearns/femtech_g3"><img src="img/bc-p1.png"></a></td>
+                <td><a href="https://github.com/angylearns/femtech_g3"><img src="img/bc-p2.png"></a></td>
+                <td><a href="https://github.com/angylearns/adminlistas_react"><img src="img/bc-p3.png"></a></td>
+                <td><a href="https://github.com/angylearns/PROJECT-4-Angy-Lidia-Ana-Pili"><img src="img/bc-p4.png"></a></td>
+            </tr>
+            Who am I? What am I?
         <table align="center">
             <tr>
                 <td><img src="img/willsmith.png" width="60px"></td>
