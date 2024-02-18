@@ -10,12 +10,12 @@
             </tr>
             <tr>
                 <td><a href="https://github.com/angylearns/femtech_g3"><img src="img/bc-p1.png"></a></td>
-                <td><a href="https://github.com/angylearns/femtech_g3"><img src="img/bc-p2.png"></a></td>
+                <td><a href="https://github.com/angylearns/adminlistas_g4"><img src="img/bc-p2.png"></a></td>
                 <td><a href="https://github.com/angylearns/adminlistas_react"><img src="img/bc-p3.png"></a></td>
                 <td><a href="https://github.com/angylearns/PROJECT-4-Angy-Lidia-Ana-Pili"><img src="img/bc-p4.png"></a></td>
             </tr>
         </table>
-        And who am I? What am I? What do I do in my life and how cool I am?
+        And who am I? What am I? What do I do in my life and how cool I am? 😎
         <br><br>
         <table align="center">
             <tr>
