@@ -3,7 +3,7 @@
         <img src="img/header.png">
     <section>
         Hey there, my name is Angy 🤘<br>
-        Let me introduce you to my most relevant repositories so far: <br><br>
+        Let me introduce you to my most relevant repositories so far (click on them!): <br><br>
         <table align="center">
             <tr>
                 <td colspan="4" align="center">Bootcamp Full Stack (FemCoders)</td>
