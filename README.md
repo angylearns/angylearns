@@ -5,7 +5,7 @@
         Hey there 🤘. My name is Angy: <br><br>
         <table align="center">
             <tr>
-                <td><a href="https://github.com/"><img src="img/willsmith.png" width="60px"></a></td>
+                <td><img src="img/willsmith.png" width="60px"></td>
                 <td align="center">Long-walker • Sarcasm lover • Doubter • Observer •<br> Eager chips-eater • Inquisitive soul • Ever-changing • Ever-learning</td>
             </tr>
         </table>
