@@ -2,7 +2,7 @@
     <h1>angylearns' ever-growing repositories</h1>
         <img src="img/header.png">
     <section>
-        Hey there 🤘.<br>
+        Hey there 🤘<br>
         My name is Angy and let me introduce you to my most relevant repositories so far: <br><br>
         <table align="center">
             <tr>
