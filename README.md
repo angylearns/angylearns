@@ -3,13 +3,13 @@
     <img src="img/header.png">
     <section>
         Hey there, my name is <strong>Angy</strong> 🤘<br><br>
-        Let me introduce you to my most relevant repositories so far (click on them!):<br><br>
+        Let me introduce you to my most relevant repositories so far (click on them!):<br><br><a href="https://github.com/angylearns/femtech_g3"><img src="img/p1.png" style="border-radius:  15px" ></a>
         <table align="center">
             <tr>
                 <td colspan="4" align="center"><strong>Full Stack Web Development bootcamp projects</strong></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/angylearns/femtech_g3"><img src="img/p1.png" style="border-radius:  15px" ></a></td>
+                <td></td>
                 <td><a href="https://github.com/angylearns/adminlistas_g4"><img src="img/p2.png" style="border-radius:  15px"></a></td>
                 <td><a href="https://github.com/angylearns/adminlistas_react"><img src="img/p3.png" style="border-radius:  15px" ></a></td>
                 <td><a href="https://github.com/angylearns/PROJECT-4-Angy-Lidia-Ana-Pili"><img src="img/p4.png" style="border-radius:  15px" ></a></td>
