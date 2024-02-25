@@ -1,13 +1,12 @@
 <main class="container">
     <h1>angylearns' ever-growing repositories</h1>
     <img src="img/header.png">
-    <br><br>
     <section>
         Hey there, my name is <strong>Angy</strong> 🤘<br><br>
-        <center>Let me introduce you to my most relevant repositories so far (click on them!):</center> <br>
+        Let me introduce you to my most relevant repositories so far (click on them!):<br><br>
         <table align="center">
             <tr>
-                <td colspan="4" align="center"><span style="letter-spacing:3px; font-weight:bold; font-size:20px">Full Stack Web Development bootcamp projects</span></td>
+                <td colspan="4" align="center" style="letter-spacing:3px; font-weight:bold; font-size:20px">Full Stack Web Development bootcamp projects</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/angylearns/femtech_g3"><img src="img/p1.png" style="border-radius:  15px" ></a></td>
