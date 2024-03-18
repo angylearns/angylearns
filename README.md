@@ -16,7 +16,7 @@
             </tr>
             <tr>
                 <td><a href="https://github.com/angylearns/marketplace_animals-p5e4"><img src="img/p5.png"></a></td>
-                <td><a href=""><img src="img/coming_soon.png"></a></td>
+                <td><a href="#"><img src="img/p6.png"></a></td>
                 <td><a href=""><img src="img/coming_soon.png"></a></td>
                 <td><a href=""><img src="img/coming_soon.png"></a></td>
             </tr>
