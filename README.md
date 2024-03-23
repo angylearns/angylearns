@@ -17,7 +17,7 @@
             </tr>
             <tr>
                 <td><a href='https://github.com/angylearns/marketplace_animals-p5e4' target="_blank"><img alt='react' src='https://img.shields.io/badge/5-“+kota”_Marketplace-100000?style=for-the-badge&logo=react&logoColor=000000&labelColor=ed6163&color=black'/></a></td>
-                <td><a href='#' target="_blank"><img alt='flask' src='https://img.shields.io/badge/7-coming_soon-100000?style=for-the-badge&logo=flask&logoColor=000000&labelColor=3babc3&color=black'/></a></td>
+                <td><a href='https://github.com/angylearns/bd_malaguenos' target="_blank"><img alt='flask' src='https://img.shields.io/badge/7-flask_bd_connection-100000?style=for-the-badge&logo=flask&logoColor=000000&labelColor=3babc3&color=black'/></a></td>
             </tr>
             <tr>
                 <td><a href='#' target="_blank"><img alt='' src='https://img.shields.io/badge/8-coming_soon-100000?style=for-the-badge&logo=&logoColor=000000&labelColor=09FF4E&color=black'/></a></td>
