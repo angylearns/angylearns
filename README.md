@@ -11,14 +11,15 @@
             <tr>
                 <td><a href='https://github.com/angylearns/femtech_g3' target="_blank"><img alt='html5' src='https://img.shields.io/badge/1-Landing_page for a startup-100000?style=for-the-badge&logo=html5&logoColor=000000&labelColor=ffcb71&color=black'/></a></td>
                 <td><a href='https://github.com/angylearns/adminlistas_g4' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/2-List_management app (JS DOM)-100000?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=87bced&color=black'/></a></td>
-                <td><a href='https://github.com/angylearns/adminlistas_react' target="_blank"><img alt='react' src='https://img.shields.io/badge/3-List_management app (React.js)-100000?style=for-the-badge&logo=react&logoColor=000000&labelColor=9a4ad8&color=black'/></a></td>
             <tr>
+                <td><a href='https://github.com/angylearns/adminlistas_react' target="_blank"><img alt='react' src='https://img.shields.io/badge/3-List_management app (React.js)-100000?style=for-the-badge&logo=react&logoColor=000000&labelColor=9a4ad8&color=black'/></a></td>
                 <td><a href='https://github.com/angylearns/wheel_of_doom' target="_blank"><img alt='react' src='https://img.shields.io/badge/4-“Wheel_of Doom” school app-100000?style=for-the-badge&logo=react&logoColor=000000&labelColor=ff65c2&color=black'/></a></td>
-                <td><a href='https://github.com/angylearns/marketplace_animals-p5e4' target="_blank"><img alt='react' src='https://img.shields.io/badge/5-“+kota”_Marketplace-100000?style=for-the-badge&logo=react&logoColor=000000&labelColor=ed6163&color=black'/></a></td>
-                <td><a href='#' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/6-ER_& RM models (back end)-100000?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=8D8D8D&color=black'/></a></td>
             </tr>
             <tr>
+                <td><a href='https://github.com/angylearns/marketplace_animals-p5e4' target="_blank"><img alt='react' src='https://img.shields.io/badge/5-“+kota”_Marketplace-100000?style=for-the-badge&logo=react&logoColor=000000&labelColor=ed6163&color=black'/></a></td>
                 <td><a href='#' target="_blank"><img alt='flask' src='https://img.shields.io/badge/7-coming_soon-100000?style=for-the-badge&logo=flask&logoColor=000000&labelColor=3babc3&color=black'/></a></td>
+            </tr>
+            <tr>
                 <td><a href='#' target="_blank"><img alt='' src='https://img.shields.io/badge/8-coming_soon-100000?style=for-the-badge&logo=&logoColor=000000&labelColor=09FF4E&color=black'/></a></td>
                 <td><a href='#' target="_blank"><img alt='' src='https://img.shields.io/badge/9-coming_soon-100000?style=for-the-badge&logo=&logoColor=000000&labelColor=FF7308&color=black'/></a></td>
             </tr>
