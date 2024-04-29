@@ -9,6 +9,9 @@
                 <td colspan="4" align="center"><strong>Full Stack Web Development bootcamp projects</strong></td>
             </tr>
             <tr>
+                <td colspan="4"><center><a href="https://github.com/sandra-medina-luque/Holistic-Ovaries" style="height:100px"><img src="img/final_boss.png"></a></center></td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/angylearns/femtech_g3"><img src="img/p1.png"></a></td>
                 <td><a href="https://github.com/angylearns/adminlistas_g4"><img src="img/p2.png"></a></td>
                 <td><a href="https://github.com/angylearns/adminlistas_react"><img src="img/p3.png"></a></td>
