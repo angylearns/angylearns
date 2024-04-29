@@ -18,7 +18,7 @@
                 <td><a href="https://github.com/angylearns/marketplace_animals-p5e4"><img src="img/p5.png"></a></td>
                 <td><a href="#"><img src="img/p6.png"></a></td>
                 <td><a href="https://github.com/angylearns/bd_malaguenos"><img src="img/p7.png"></a></td>
-                <td><a href="#"><img src="img/cs.png"></a></td>
+                <td><a href="https://github.com/angylearns/full_stack-art_callery"><img src="img/p8.png"></a></td>
             </tr>
 </table><br>
         And well... Who am I? What am I? How cool and <strong>superhumble</strong> am I? 😎
