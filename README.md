@@ -6,12 +6,12 @@
         Let me introduce you to my most relevant repositories so far (click on them!):<br><br>
         <table align="center">
             <tr>
-                <td></td>
-                <td colspan="2" align="center"><strong>Full Stack Web Development bootcamp projects</strong></td>
-                <td></td>
+                <td colspan="4" align="center"><strong>Full Stack Web Development bootcamp projects</strong></td>
             </tr>
             <tr>
-                <td colspan="4" align="center"><a href="https://github.com/sandra-medina-luque/Holistic-Ovaries" style="height:100px"><img src="img/final_boss.png"></a></td>
+                <td></td>
+                <td colspan="2" align="center"><a href="https://github.com/sandra-medina-luque/Holistic-Ovaries" style="height:100px"><img src="img/final_boss.png"></a></td>
+                <td></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/angylearns/femtech_g3"><img src="img/p1.png"></a></td>
