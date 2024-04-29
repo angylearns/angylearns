@@ -10,7 +10,7 @@
             </tr>
             <tr>
                 <td></td>
-                <td colspan="2" align="center"><a href="https://github.com/sandra-medina-luque/Holistic-Ovaries" style="height:100px"><img src="img/final_boss.png"></a></td>
+                <td colspan="2" align="center"><a href="https://github.com/sandra-medina-luque/Holistic-Ovaries" style="width:200px"><img src="img/final_boss.png"></a></td>
                 <td></td>
             </tr>
             <tr>
