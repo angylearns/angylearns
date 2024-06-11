@@ -23,7 +23,7 @@
                 <td rowspan="2">Oviva Care (React + Flask) [<a href="https://github.com/angylearns/oviva_care">Here</a>]</td>
             </tr>
             <tr>
-                <td>List management app (JavaScript) [<a href="https://github.com/angylearns/adminlistas_g4">Here</a>]</td>
+                <td>List management app (JavaScript DOM) [<a href="https://github.com/angylearns/adminlistas_g4">Here</a>]</td>
             </tr>
             <tr>
                 <td>Landing page tech startup (HTML + CSS) [<a href="https://github.com/angylearns/femtech_g3">Here</a>]</td>
