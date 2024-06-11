@@ -2,7 +2,7 @@
     <h1>angylearns' ever-growing repositories</h1>
     <img src="img/header.png">
     <section>
-        Hey there, my name is <strong>Angy</strong> 🤘<br><br>
+        Hey there, my name is <strong>Angy</strong>.<br><br>
         Let me introduce you to my most relevant repositories so far:<br><br>
         <table align="center">
             <tr>
@@ -11,23 +11,23 @@
                 <th>Full Stack</th>
             </tr>
             <tr>
-                <td><a href="https://github.com/angylearns/marketplace_animals-p5e4">'+kota' Marketplace (React)</a></td>
-                <td rowspan="5"><a href="https://github.com/angylearns/bd_malaguenos">CRUD queries (Flask + SQL)</a></td>
-                <td rowspan="2"><a href="https://github.com/angylearns/proyecto_IFCD0210">1st app I ever programmed (PHP)</a></td>
+                <td>'+kota' Marketplace (React) [<a href="https://github.com/angylearns/marketplace_animals-p5e4">x</a>]</td>
+                <td rowspan="5">CRUD queries (Flask + SQL) [<a href="https://github.com/angylearns/bd_malaguenos">x</a>]</td>
+                <td rowspan="2">1st app I ever programmed (PHP) [<a href="https://github.com/angylearns/proyecto_IFCD0210">x</a>]</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/angylearns/wheel_of_doom">'Wheel of Doom' school app (React)</a></td>
+                <td>'Wheel of Doom' school app (React) [<a href="https://github.com/angylearns/wheel_of_doom">x</a>]</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/angylearns/adminlistas_react">List management app (React)</a></td>
-                <td rowspan="2"><a href="https://github.com/angylearns/oviva_care">Oviva Care (React + Flask)</a></td>
+                <td>List management app (React) [<a href="https://github.com/angylearns/adminlistas_react">x</a>]</td>
+                <td rowspan="2">Oviva Care (React + Flask) [<a href="https://github.com/angylearns/oviva_care">x</a>]</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/angylearns/adminlistas_g4">List management app (JavaScript)</a></td>
+                <td>List management app (JavaScript) [<a href="https://github.com/angylearns/adminlistas_g4">x</a>]</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/angylearns/femtech_g3">Landing page tech startup (HTML + CSS)</a></td>
-                <td><a href="https://github.com/angylearns/full_stack-art_callery">Art Gallery Marketplace (React + Flask)</a></td>
+                <td>Landing page tech startup (HTML + CSS) [<a href="https://github.com/angylearns/femtech_g3">x</a>]</td>
+                <td>Art Gallery Marketplace (React + Flask) [<a href="https://github.com/angylearns/full_stack-art_callery">x</a>]</td>
             </tr>
         </table>
         <br>
@@ -63,10 +63,11 @@
                 <td>Ever-learning</td>
             </tr>
         </table><br>
-        I entered the tech sector during the pandemic and haven't stopped since. I obtained a <em>Professional Certificate in Applications Development with Web Technologies</em>, programmed my first app, and got my first job as a developer. This is my place. 😎
+        I entered the tech sector during the pandemic and haven't stopped since. I obtained a <em>Professional Certificate in App Development with Web Technologies</em>, programmed my first app (in three months!), and got my first job as a Developer. This is my place. 😎
         <br><br>
-        I'm <strong>currently</strong> working as a Backend Software Engineering, speaking at events & immersed in my education and professional development. I'm <u>always</u> learning!
+        <strong>Now</strong> I'm working as a Backend Software Engineer, I speak at events & I'm immersed in my education and professional development. <u>Always</u> learning!
         <br><br>
+        <strong>WORK HARD, PLAY <em>HARDER</em></strong> 🤘
     </section>
     <hr>
     <br>
