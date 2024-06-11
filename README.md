@@ -63,9 +63,9 @@
                 <td>Ever-learning</td>
             </tr>
         </table><br>
-        I entered the tech sector during the pandemic and haven't stopped since. I obtained a <em>Professional Certificate in Applications Development with Web Technologies</em>, programmed my first app, and got my first job as a developer. I had finally discovered that this is my place.
+        I entered the tech sector during the pandemic and haven't stopped since. I obtained a <em>Professional Certificate in Applications Development with Web Technologies</em>, programmed my first app, and got my first job as a developer. This is my place. 😎
         <br><br>
-        I'm <strong>currently</strong> immersed in my education and professional development. I'm <u>always</u> studying!
+        I'm <strong>currently</strong> working as a Backend Software Engineering, speaking at events & immersed in my education and professional development. I'm <u>always</u> learning!
         <br><br>
     </section>
     <hr>
