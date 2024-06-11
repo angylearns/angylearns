@@ -11,23 +11,23 @@
                 <th>Full Stack</th>
             </tr>
             <tr>
-                <td>'+kota' Marketplace (React) [<a href="https://github.com/angylearns/marketplace_animals-p5e4">x</a>]</td>
-                <td rowspan="5">CRUD queries (Flask + SQL) [<a href="https://github.com/angylearns/bd_malaguenos">x</a>]</td>
-                <td rowspan="2">1st app I ever programmed (PHP) [<a href="https://github.com/angylearns/proyecto_IFCD0210">x</a>]</td>
+                <td>'+kota' Marketplace (React) [<a href="https://github.com/angylearns/marketplace_animals-p5e4">Here</a>]</td>
+                <td rowspan="5">CRUD queries (Flask + SQL) [<a href="https://github.com/angylearns/bd_malaguenos">Here</a>]</td>
+                <td rowspan="2">1st app I ever programmed (PHP) [<a href="https://github.com/angylearns/proyecto_IFCD0210">Here</a>]</td>
             </tr>
             <tr>
-                <td>'Wheel of Doom' school app (React) [<a href="https://github.com/angylearns/wheel_of_doom">x</a>]</td>
+                <td>'Wheel of Doom' school app (React) [<a href="https://github.com/angylearns/wheel_of_doom">Here</a>]</td>
             </tr>
             <tr>
-                <td>List management app (React) [<a href="https://github.com/angylearns/adminlistas_react">x</a>]</td>
-                <td rowspan="2">Oviva Care (React + Flask) [<a href="https://github.com/angylearns/oviva_care">x</a>]</td>
+                <td>List management app (React) [<a href="https://github.com/angylearns/adminlistas_react">Here</a>]</td>
+                <td rowspan="2">Oviva Care (React + Flask) [<a href="https://github.com/angylearns/oviva_care">Here</a>]</td>
             </tr>
             <tr>
-                <td>List management app (JavaScript) [<a href="https://github.com/angylearns/adminlistas_g4">x</a>]</td>
+                <td>List management app (JavaScript) [<a href="https://github.com/angylearns/adminlistas_g4">Here</a>]</td>
             </tr>
             <tr>
-                <td>Landing page tech startup (HTML + CSS) [<a href="https://github.com/angylearns/femtech_g3">x</a>]</td>
-                <td>Art Gallery Marketplace (React + Flask) [<a href="https://github.com/angylearns/full_stack-art_callery">x</a>]</td>
+                <td>Landing page tech startup (HTML + CSS) [<a href="https://github.com/angylearns/femtech_g3">Here</a>]</td>
+                <td>Art Gallery Marketplace (React + Flask) [<a href="https://github.com/angylearns/full_stack-art_callery">Here</a>]</td>
             </tr>
         </table>
         <br>
