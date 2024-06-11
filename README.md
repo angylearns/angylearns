@@ -3,27 +3,31 @@
     <img src="img/header.png">
     <section>
         Hey there, my name is <strong>Angy</strong> 🤘<br><br>
-        Let me introduce you to my most relevant repositories so far (click on them!):<br><br>
+        Let me introduce you to my most relevant repositories so far:<br><br>
         <table align="center">
             <tr>
-                <td colspan="4" align="center"><strong>Full Stack Web Development bootcamp projects</strong></td>
+                <th>Front end</th>
+                <th>Back end</th>
+                <th>Full Stack</th>
             </tr>
             <tr>
-                <td></td>
-                <td colspan="2" align="center"><a href="https://github.com/sandra-medina-luque/Holistic-Ovaries" style="width:200px"><img src="img/final_boss.png"></a></td>
-                <td></td>
+                <td><a href="https://github.com/angylearns/marketplace_animals-p5e4">'+kota' Marketplace (React)</a></td>
+                <td rowspan="5"><a href="https://github.com/angylearns/bd_malaguenos">CRUD queries (Flask + SQL)</a></td>
+                <td rowspan="2"><a href="https://github.com/angylearns/proyecto_IFCD0210">1st app I ever programmed (PHP)</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/angylearns/femtech_g3"><img src="img/p1.png"></a></td>
-                <td><a href="https://github.com/angylearns/adminlistas_g4"><img src="img/p2.png"></a></td>
-                <td><a href="https://github.com/angylearns/adminlistas_react"><img src="img/p3.png"></a></td>
-                <td><a href="https://github.com/angylearns/wheel_of_doom"><img src="img/p4.png"></a></td>
+                <td><a href="https://github.com/angylearns/wheel_of_doom">'Wheel of Doom' school app (React)</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/angylearns/marketplace_animals-p5e4"><img src="img/p5.png"></a></td>
-                <td><a href="#"><img src="img/p6.png"></a></td>
-                <td><a href="https://github.com/angylearns/bd_malaguenos"><img src="img/p7.png"></a></td>
-                <td><a href="https://github.com/angylearns/full_stack-art_callery"><img src="img/p8.png"></a></td>
+                <td><a href="https://github.com/angylearns/adminlistas_react">List management app (React)</a></td>
+                <td rowspan="2"><a href="https://github.com/angylearns/oviva_care">Oviva Care (React + Flask)</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/angylearns/adminlistas_g4">List management app (JavaScript)</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/angylearns/femtech_g3">Landing page tech startup (HTML + CSS)</a></td>
+                <td><a href="https://github.com/angylearns/full_stack-art_callery">Art Gallery Marketplace (React + Flask)</a></td>
             </tr>
         </table>
         <br>
