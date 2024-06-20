@@ -65,7 +65,7 @@
         </table><br>
         I entered the tech sector during the pandemic and haven't stopped since. I obtained a <em>Professional Certificate in App Development with Web Technologies</em>, programmed my first app (in three months!), and got my first job as a Developer. This is my place. 😎
         <br><br>
-        <strong>Now</strong> I'm working as a Backend Software Engineer, I speak at events & I'm immersed in my education and professional development. <u>Always</u> learning!
+        <strong>Now</strong> I'm immersed in my education and professional development. <u>Always</u> learning!
         <br><br>
         <strong>WORK HARD, PLAY <em>HARDER</em></strong> 🤘
     </section>
