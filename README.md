@@ -3,7 +3,7 @@
     <img src="img/header.png">
     <section>
         Hey there, my name is <strong>Angy</strong>.<br><br>
-        Let me introduce you to my most relevant repositories so far:<br><br>
+        Let me introduce you to my most relevant repositories so far (some of them have a screenshot of the awesomeness!):<br><br>
         <table align="center">
             <tr>
                 <th>Front end</th>
