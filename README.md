@@ -65,7 +65,7 @@
         </table><br>
         I entered the tech sector during the pandemic and haven't stopped since. I obtained a <em>Professional Certificate in App Development with Web Technologies</em>, programmed my first app (in three months!), and got my first job as a Developer. This is my place. 😎
         <br><br>
-        <strong>Now</strong> I'm immersed in my education and professional development (as usual) and looking for new opportunities. Always developing!
+        <strong>Now</strong> I'm working as a Web UI Developer (so it may look like I'm not writing code) and I'm immersed in my education and professional developmen, as usual. Always developing!
         <br><br>
         <strong>WORK HARD, PLAY <em>HARDER</em></strong> 🤘
     </section>
